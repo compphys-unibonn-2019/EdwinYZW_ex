@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "test.C": "cpp",
+        "wimp_detector_skeleton.C": "cpp",
+        "StandardSolution2.C": "cpp"
+    }
+}
